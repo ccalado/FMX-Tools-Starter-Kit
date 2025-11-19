@@ -45,6 +45,7 @@ interface
 // TConfigHelpers (or with an other name) helper class where you'll add your
 // properties and their Get/Set methods.
 // Copy the content of the Get/Set methods here to have the same behaviour.
+// Use GetParams() method instead of FParams field in your Get/Set methods.
 //
 // To limit risks of duplicate variables names, prefix your own parameters
 // by your project name, a GUID or anything else than what we use (= 'FTSK.').
