@@ -6,9 +6,27 @@ Ce dépôt de code contient un modèle de projet FireMonkey pour Delphi à utili
 
 Le programme de base propose une fiche avec son menu, ses fonctionnalités de traductions, un changement de langue, un changement de thème, des options et une gestion de projet en tant que classe liée à un type de fichier (à surcharger et personnaliser).
 
+Pour utiliser ce modèle vous pouvez soit le rapatrier comme fichier ZIP et ajouter les dépendances à la main, soit l'utiliser comme template pour créer le dépôt de code de votre logiciel, soit l'utiliser en sous-module dans un dépôt de code. Un mode d'emploi et les étapes détaillées seront fournis prochainement, le temps d'ajouter quelques exemples d'utilisation et d'enregistrer des vidéos explicatives.
+
+Traitez les TODOs et les messages de compilation.
+
+Evitez autant que possible de modifier les fichiers du starter kit, créez plutôt les vôtres. Ca vous permettra ensuite de mettre à jour ceux d'origine et bénéficier des nouvelles fonctionnalités (ou correctifs) de façon totalement transparente.
+
+Depuis décembre 2025 vous pouvez aussi partir d'un dossier préconfiguré pour créer vos logiciels basés sur ce starter kit. [Téléchargez la dernière version du "Tools Template"](https://codeberg.org/DeveloppeurPascal/Tools-Template-For-Delphi-FireMonkey/releases) et suivez simplement les explications présentes dans les fichiers TODO.md
+
+* [Tools Starter Kit Template](https://codeberg.org/DeveloppeurPascal/Tools-Template-For-Delphi-FireMonkey)
+
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
+## Utiliser ce kit de développement de logiciels
+
+Consultez [le site du starter kit](https://fmxtoolsstarterkit.developpeur-pascal.fr) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
+
 ## Présentations et conférences
+
+### Embarcadero CodeRage 2025
+
+* [A Starter Kit for Your FireMonkey Projects](https://coderage.embarcadero.com) (in English)
 
 ### Twitch
 

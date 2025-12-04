@@ -6,9 +6,27 @@ This code repository contains a FireMonkey project template for Delphi to be use
 
 The basic program offers a form with its own menu, translation functions, language change, theme change, options and project management as a class linked to a file type (to be overloaded and customized).
 
+To use this template, you can either download it as a ZIP file and add the dependencies manually, use it as a template to create your software code repository, or use it as a submodule in a code repository. Instructions and detailed steps will be provided shortly, once we have added some examples of use and recorded explanatory videos.
+
+Process the TODOs and compilation messages.
+
+Avoid modifying the starter kit files as much as possible; instead, create your own. This will allow you to update the original files and benefit from new features (or fixes) in a completely transparent manner.
+
+Since December 2025, you can also use a preconfigured folder to create your software based on this starter kit. [Download the latest version of the “Tools Template”](https://codeberg.org/DeveloppeurPascal/Tools-Template-For-Delphi-FireMonkey/releases) and simply follow the instructions in the TODO.md files.
+
+* [Tools Starter Kit Template](https://codeberg.org/DeveloppeurPascal/Tools-Template-For-Delphi-FireMonkey)
+
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
+## Using this software development kit
+
+Visit [the starter kit website](https://fmxtoolsstarterkit.developpeur-pascal.fr) to learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+
 ## Talks and conferences
+
+### Embarcadero CodeRage 2025
+
+* [A Starter Kit for Your FireMonkey Projects](https://coderage.embarcadero.com) (in English)
 
 ### Twitch
 
