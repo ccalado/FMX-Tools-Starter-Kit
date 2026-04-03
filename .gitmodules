@@ -10,3 +10,6 @@
 [submodule "lib-externes/FMX-Styles-Utils"]
 	path = lib-externes/FMX-Styles-Utils
 	url = https://github.com/DeveloppeurPascal/FMX-Styles-Utils.git
+[submodule "lib-externes/librairies"]
+	path = lib-externes/librairies
+	url = https://github.com/DeveloppeurPascal/librairies.git
