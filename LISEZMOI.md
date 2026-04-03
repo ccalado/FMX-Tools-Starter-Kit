@@ -26,7 +26,7 @@ Consultez [le site du starter kit](https://fmxtoolsstarterkit.developpeur-pascal
 
 ### Embarcadero CodeRage 2025
 
-* [A Starter Kit for Your FireMonkey Projects](https://coderage.embarcadero.com) (in English)
+* [A Starter Kit For Your FireMonkey Projects](https://codeberg.org/ConferencePapersFromPP/CodeRage2025-AStarterKitForYourFireMonkeyProjects-ConfTalk) (en français et en anglais selon les vidéos et documents)
 
 ### Twitch
 
