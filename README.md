@@ -2,7 +2,10 @@
 
 [Cette page en français.](LISEZMOI.md)
 
-This code repository contains a FireMonkey project template for Delphi to be used as a template on GitHub, as a copy or preferably as a sub-module to be completed for your own document editing software projects (whatever the type and content of these documents).
+> [!WARNING]
+> Following Microsoft's decision to merge GitHub into its AI division in the summer of 2025, I have decided to stop maintaining the repositories here. I will update this repository from time to time by copying the missing changes from the main repository, which is now on [Codeberg](https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit).
+
+This code repository contains a FireMonkey project template for Delphi to be used as a template on GitHub or Codeberg, as a copy or preferably as a sub-module to be completed for your own document editing software projects (whatever the type and content of these documents).
 
 The basic program offers a form with its own menu, translation functions, language change, theme change, options and project management as a class linked to a file type (to be overloaded and customized).
 
@@ -34,7 +37,7 @@ Follow my development streams of software, video games, mobile applications and 
 
 ## Source code installation
 
-To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit).
+To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its Codeberg repository](https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit).
 
 This project uses dependencies in the form of sub-modules. They will be absent from the ZIP file. You'll have to download them by hand.
 
@@ -64,7 +67,7 @@ Normally, my libraries and components should also run on at least the current ve
 
 There's no guarantee of compatibility with earlier versions, even though I try to keep my code clean and avoid using too many of the new ways of writing in it (type inference, inline var and multiline strings).
 
-If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit/issues) so that I can test and try to correct or provide a workaround.
+If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit/issues) so that I can test and try to correct or provide a workaround.
 
 ## License to use this code repository and its contents
 
@@ -83,7 +86,7 @@ The source codes of this code repository as well as any compiled version are pro
 
 ## How to ask a new feature, report a bug or a security issue ?
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit) and [open a new issue](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit/issues).
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the Codeberg repository](https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit) and [open a new issue](https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit/issues).
 
 If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
 
