@@ -30,10 +30,10 @@
   https://fmxtoolsstarterkit.developpeur-pascal.fr/
 
   Project site :
-  https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit
+  https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit
 
   ***************************************************************************
-  File last update : 2025-05-25T16:28:32.515+02:00
+  File last update : 2026-04-03T17:09:10.321+02:00
   Signature : 2a71ef0b60a714447b3d9944143c8057b20c447b
   ***************************************************************************
 *)
